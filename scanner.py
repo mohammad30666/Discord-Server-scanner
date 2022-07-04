@@ -48,7 +48,7 @@ class color :
 b1 = color.Yellow+"""
                        ___________________________________ 
                       | created by:                       |
-                      |    mohammad30666#0719             |
+                      |      mohammad30666                |
                       |                                   |
                       |                                   |
                       |   my github:                      |
